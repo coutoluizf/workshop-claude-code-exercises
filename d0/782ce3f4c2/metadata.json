@@ -1,0 +1,41 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "d0782ce3f4c2",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "modulo-02/.gitignore",
+    "modulo-02/README.md",
+    "modulo-02/app/api/notes/[id]/route.ts",
+    "modulo-02/app/api/notes/route.ts",
+    "modulo-02/app/layout.tsx",
+    "modulo-02/app/page.tsx",
+    "modulo-02/docs/.gitkeep",
+    "modulo-02/docs/prd-modelo.md",
+    "modulo-02/lib/db.ts",
+    "modulo-03/.gitignore",
+    "modulo-03/README.md",
+    "modulo-03/docs/prd-meu-mcp.md",
+    "modulo-03/package-lock.json",
+    "modulo-03/package.json",
+    "modulo-03/src/index.ts",
+    "modulo-03/tsconfig.json"
+  ],
+  "sessions": [
+    {
+      "metadata": "/d0/782ce3f4c2/0/metadata.json",
+      "transcript": "/d0/782ce3f4c2/0/full.jsonl",
+      "context": "/d0/782ce3f4c2/0/context.md",
+      "content_hash": "/d0/782ce3f4c2/0/content_hash.txt",
+      "prompt": "/d0/782ce3f4c2/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 133,
+    "cache_creation_tokens": 424969,
+    "cache_read_tokens": 10133699,
+    "output_tokens": 5369,
+    "api_call_count": 87
+  }
+}

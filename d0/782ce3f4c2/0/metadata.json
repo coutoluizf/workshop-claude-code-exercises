@@ -1,0 +1,44 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "d0782ce3f4c2",
+  "session_id": "447c5c1e-7b1e-489e-9b78-c45c966c987f",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-25T16:49:22.901634Z",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "modulo-02/.gitignore",
+    "modulo-02/README.md",
+    "modulo-02/app/api/notes/[id]/route.ts",
+    "modulo-02/app/api/notes/route.ts",
+    "modulo-02/app/layout.tsx",
+    "modulo-02/app/page.tsx",
+    "modulo-02/docs/.gitkeep",
+    "modulo-02/docs/prd-modelo.md",
+    "modulo-02/lib/db.ts",
+    "modulo-03/.gitignore",
+    "modulo-03/README.md",
+    "modulo-03/docs/prd-meu-mcp.md",
+    "modulo-03/package-lock.json",
+    "modulo-03/package.json",
+    "modulo-03/src/index.ts",
+    "modulo-03/tsconfig.json"
+  ],
+  "agent": "Claude Code",
+  "token_usage": {
+    "input_tokens": 133,
+    "cache_creation_tokens": 424969,
+    "cache_read_tokens": 10133699,
+    "output_tokens": 5369,
+    "api_call_count": 87
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-25T16:49:22.721494Z",
+    "agent_lines": 399,
+    "human_added": 5251,
+    "human_modified": 1922,
+    "human_removed": 0,
+    "total_committed": 7572,
+    "agent_percentage": 5.269413629160064
+  }
+}
