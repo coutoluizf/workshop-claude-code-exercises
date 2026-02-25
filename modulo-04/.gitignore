@@ -1,0 +1,11 @@
+# O projeto tab-stash é clonado pelos alunos
+tab-stash/
+
+# Docs gerados pelos exercícios
+docs/prd-reverso-*.md
+docs/code-review-*.md
+docs/spec-refactoring-*.md
+docs/spec-minha-feature*.md
+
+# misc
+.DS_Store
